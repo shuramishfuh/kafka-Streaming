@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Kafka-producer-wikimedia" />
             <option value="$PROJECT_DIR$/kafka-basic" />
           </set>
         </option>
