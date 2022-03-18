@@ -1,4 +1,5 @@
 rootProject.name = 'kafka-begining'
 include 'kafka-basic'
 include 'Kafka-producer-wikimedia'
+include 'kafka-consumer-opensearch'
 
